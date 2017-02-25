@@ -19,6 +19,7 @@
 void train_net(char *cfgfile, char *weightfile)
 {
 	char *train_images;
+	
 
 
 }
